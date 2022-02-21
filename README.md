@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AliDeemir
 - 👀 I’m interested in Data Analysis and Psychology
 - 🌱 I’m currently learning R 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "alidemir.personal@gmail.com"
 
 <!---
