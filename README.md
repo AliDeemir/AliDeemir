@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliDeemir
-- 👀 I’m interested in Data Analysis and Psychology
-- 🌱 I’m currently learning SQL, R, and Tableau 
+- 👀 I’m interested in Data Analysis 
+- 🌱 I’m currently learning SQL, Python, and Tableau 
 - 📫 How to reach me "alidemir.personal@gmail.com"
 
 <!---
