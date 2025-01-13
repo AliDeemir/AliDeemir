@@ -18,7 +18,8 @@ I'm **Ali**, a psychology graduate and co-founder of [Cognitio Intelligence](htt
 ## Let's Connect
 
 - **LinkedIn**: [linkedin.com/in/alideemir/](https://www.linkedin.com/in/alideemir/)
-- **Email**: ali.demir@cognitioi.com
+- **Personal Email**: alidemir.personal@gmail.com
+- **Company Email**: ali.demir@cognitioi.com
 
 Feel free to reach out if you'd like to discuss data projects, share insights, or explore potential collaborations.
 
