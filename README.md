@@ -12,7 +12,7 @@ I'm **Ali**, a psychology graduate and co-founder of [Cognitio Intelligence](htt
 
 ## Current Projects
 
-- Developing automated web scraping systems for dynamic data extraction.
+- Developing AI based Personal Data Analyst for enterprises.
 - Analyzing e-commerce data to enhance customer experience and drive growth.
 
 ## Let's Connect
